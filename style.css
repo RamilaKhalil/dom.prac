@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    height: 100% ;
+    width: 100% ;
+}
+#bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: gray;
+}
+button{
+    margin-top: 20px;
+    padding: 10px 30px;
+    margin-left: 110px ;
+     
+}
